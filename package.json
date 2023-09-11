@@ -1,0 +1,14 @@
+{
+  "name": "food_lane",
+  "version": "1.0.0",
+  "description": "\"Replica of Swiggy\"",
+  "main": "App.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "author": "\"gowri\"",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
